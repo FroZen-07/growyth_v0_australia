@@ -1,7 +1,6 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { Badge } from "@/components/ui/badge"
-import { Triangle, Zap, Youtube, Mic, ChevronRight, Check } from "lucide-react"
+import { Zap, Youtube, Mic, ChevronRight, Check } from "lucide-react"
 import { FAQAccordion } from "@/components/faq-accordion"
 import { TestimonialCarousel } from "@/components/testimonial-carousel"
 import { StatsCarousel } from "@/components/stats-carousel"
