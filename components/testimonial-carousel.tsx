@@ -45,7 +45,7 @@ export function TestimonialCarousel() {
     <div className="relative max-w-3xl mx-auto">
       <div className="text-center min-h-[200px] flex flex-col justify-center">
         <p className="text-xl md:text-2xl italic mb-4 transition-opacity duration-500">
-          "{testimonials[currentIndex].quote}"
+        &quot;{testimonials[currentIndex].quote}&quot;
         </p>
         <p className="text-red-400 font-semibold transition-opacity duration-500">
           {testimonials[currentIndex].author}

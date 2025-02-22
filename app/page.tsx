@@ -77,7 +77,7 @@ export default function Page() {
             </h1>
 
             <p className="text-gray-400 text-xl md:text-2xl max-w-3xl mx-auto leading-relaxed">
-            We assist Venture Capital, private Equity & Entrepreneurs to successfully build Authority by Scaling Organic IP's and Content through YouTube & Other Short from content platform that creates more discoverability.
+            We assist Venture Capital, private Equity & Entrepreneurs to successfully build Authority by Scaling Organic IP&apos;s and Content through YouTube & Other Short from content platform that creates more discoverability.
 
             </p>
 
