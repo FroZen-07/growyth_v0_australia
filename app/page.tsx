@@ -97,6 +97,17 @@ export default function Page() {
           </div>
         </section>
 
+
+        <section className="flex justify-center my-4 py-4">
+          <iframe
+            src={`https://drive.google.com/file/d/1j6dz7wdOTesDqD46soIN045L0H8ORYU_/preview`}
+            width="640"
+            height="360"
+            allow="autoplay"
+            allowFullScreen
+          ></iframe>
+        </section>
+
         {/* Stats Section */}
         <section className="border-t border-white/10 bg-gradient-to-b from-black to-red-950/20">
           <div className="container mx-auto px-4 py-20">
